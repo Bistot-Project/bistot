@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=bistot
+Comment=bistot P2P Cryptocurrency
+Comment[fr]=bistot, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=bistot, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/bistot-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/bistot;
+Categories=Office;

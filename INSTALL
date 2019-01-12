@@ -1,0 +1,9 @@
+Building Bistot
+
+See doc/readme-qt.rst for instructions on building Bistot QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bistot.
+
+See doc/build-*.txt for instructions on building pyrited,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bistot.

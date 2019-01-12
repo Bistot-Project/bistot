@@ -1,0 +1,2 @@
+debian/bin/bistotd usr/bin
+src/bistotd usr/lib/bistot
